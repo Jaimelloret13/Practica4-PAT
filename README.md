@@ -1,6 +1,6 @@
-# PRÁCTICA 4: Desarrollo API Rest con Spring Boot
+# PRÁCTICA FINAL
 
-En esta práctica se pedía realizar la conexión de un formulario de contacto con un endpoint implementado con Spring Boot:
+El objetivo de la práctica final es diseñar una aplicación completa utilizando todos los conocimientos adquiridos durante este cuatrimestre, que permita demostrar y consolidar el aprendizaje de todo lo visto en la asignatura.
 
 ## Requerimientos:
 
